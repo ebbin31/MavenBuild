@@ -11,12 +11,12 @@
     <repository>
         <id>central</id>
         <name>ip-172-31-86-246.ec2.internal-releases</name>
-        <url>http://172.31.86.246:8081/artifactory/ant-releases-local</url>
+        <url>http://172.31.86.246:8082/artifactory/automation/</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>ip-172-31-86-246.ec2.internal-snapshots</name>
-        <url>http://172.31.86.246:8081/artifactory/ant-releases-local</url>
+        <url>http://172.31.86.246:8082/artifactory/automation</url>
     </snapshotRepository>
 </distributionManagement>
   
