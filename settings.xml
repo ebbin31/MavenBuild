@@ -8,8 +8,8 @@
       <id>central</id>
     </server>
     <server>
-      <username>${security.getCurrentUsername()}</username>
-      <password>${security.getEscapedEncryptedPassword()!"*** Insert encrypted password here ***"}</password>
+      <username>admin</username>
+      <password>Punchiri@212</password>
       <id>snapshots</id>
     </server>
   </servers>
