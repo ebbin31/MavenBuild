@@ -21,21 +21,6 @@
 </distributionManagement>
   
   
-  <settings> 
-  <servers>
-    <server>
-      <username>admin</username>
-      <password>Punchiri@212</password>
-      <id>central</id>
-    </server>
-    <server>
-      <username>admin</username>
-      <password>Punchiri@212</password>
-      <id>snapshots</id>
-    </server>
-  </servers>
- <settings> 
-  
   
   <dependencies>
         <dependency>
