@@ -2,12 +2,12 @@
   <servers>
     <server>
       <username>admin</username>
-      <password>Punchiri212</password>
+      <password>Punchiri@212</password>
       <id>central</id>
     </server>
     <server>
       <username>admin</username>
-      <password>Punchiri212</password>
+      <password>Punchiri@212</password>
       <id>snapshots</id>
     </server>
   </servers>
